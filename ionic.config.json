@@ -1,0 +1,7 @@
+{
+  "name": "cap-camera-preview-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
